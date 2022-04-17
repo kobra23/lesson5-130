@@ -1,0 +1,40 @@
+.logo {
+	width: 50px;
+	display: inline-block;
+	margin-right: 30px;
+}
+.header-wraper {
+	background: orange;
+	padding: 25px;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.navigation {
+	display: inline-block;
+}
+.nav-li {
+	display: inline-block;
+}
+body {
+	height: 1080px;
+}
+.container {
+	width: 1160px;
+	margin: 0 auto;
+}
+.block {
+	display: inline-block;
+	width: 360px;
+	background: yellow;
+	position: relative;
+}
+.size {
+	margin-right: 40px;
+}
+.title-image {
+	position: absolute;
+	left: 40px;
+	top: 28px;
+	color: white;
+}
